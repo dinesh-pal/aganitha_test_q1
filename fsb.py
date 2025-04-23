@@ -5,7 +5,7 @@ def get_rules():
 
   rules = {"Numbers":{
 
-                      "zero": 0,
+                      "zero": 10,
 
                       "one" : 1,
 
