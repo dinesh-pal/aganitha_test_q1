@@ -1,0 +1,3 @@
+git config --list - all setting that change by user--> exit "git q"
+git status  - status of project
+git init - create a new folder on the system
